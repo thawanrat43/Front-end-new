@@ -31,19 +31,6 @@ const admindelete = () => {
             console.log(err);
         }
     }
-    const deletedata = async () => {
-        try{
-            await axios.post(`/api/profile/${userid}`
-            )
-            .then((response) => {
-            if (response.data.error) {
-                alert(response.data.error);
-            }
-            });
-        }catch (err) {
-            console.log(err);
-        }
-    }
     useEffect(() => {
             
         getdata();

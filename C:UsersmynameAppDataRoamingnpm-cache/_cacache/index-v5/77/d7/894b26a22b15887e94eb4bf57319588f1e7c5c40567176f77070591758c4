@@ -1,0 +1,2 @@
+
+524802abc8b4060ec96827f611f3182f9dc33d1c	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/elegant-spinner/-/elegant-spinner-1.0.1.tgz","integrity":null,"time":1693818034276,"size":"0","metadata":{"time":1693818034276,"url":"http://registry.npmjs.org/elegant-spinner/-/elegant-spinner-1.0.1.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Mon, 04 Sep 2023 09:00:34 GMT","location":"https://registry.npmjs.org/elegant-spinner/-/elegant-spinner-1.0.1.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

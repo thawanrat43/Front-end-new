@@ -1,0 +1,2 @@
+
+56ccf345ac1d2e927abdf7a734b71603c3cffff9	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/log-update/-/log-update-2.3.0.tgz","integrity":null,"time":1693818030665,"size":"0","metadata":{"time":1693818030665,"url":"http://registry.npmjs.org/log-update/-/log-update-2.3.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Mon, 04 Sep 2023 09:00:30 GMT","location":"https://registry.npmjs.org/log-update/-/log-update-2.3.0.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

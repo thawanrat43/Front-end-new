@@ -1,0 +1,2 @@
+
+5b3d62889d6b2042485f78e98ec5850352421910	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/split2/-/split2-1.1.1.tgz","integrity":null,"time":1693818030127,"size":"0","metadata":{"time":1693818030127,"url":"http://registry.npmjs.org/split2/-/split2-1.1.1.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Mon, 04 Sep 2023 09:00:30 GMT","location":"https://registry.npmjs.org/split2/-/split2-1.1.1.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

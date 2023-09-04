@@ -1,0 +1,2 @@
+
+e8d590ef8b8168d525ba0dcad4fbd5f0a6993f82	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/xdg-basedir/-/xdg-basedir-5.1.0.tgz","integrity":null,"time":1693818025030,"size":"0","metadata":{"time":1693818025030,"url":"http://registry.npmjs.org/xdg-basedir/-/xdg-basedir-5.1.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Mon, 04 Sep 2023 09:00:24 GMT","location":"https://registry.npmjs.org/xdg-basedir/-/xdg-basedir-5.1.0.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

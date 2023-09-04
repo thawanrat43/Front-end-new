@@ -1,0 +1,2 @@
+
+4d50f4ef8e40f94869767a556270e64b8e170edc	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/http-proxy/-/http-proxy-1.18.1.tgz","integrity":null,"time":1693818031767,"size":"0","metadata":{"time":1693818031766,"url":"http://registry.npmjs.org/http-proxy/-/http-proxy-1.18.1.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Mon, 04 Sep 2023 09:00:31 GMT","location":"https://registry.npmjs.org/http-proxy/-/http-proxy-1.18.1.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

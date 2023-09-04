@@ -1,0 +1,2 @@
+
+b4024ea41c10b82ad870dc369b0bae5d9b4d5acc	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/macos-release/-/macos-release-3.0.1.tgz","integrity":null,"time":1693818030585,"size":"0","metadata":{"time":1693818030585,"url":"http://registry.npmjs.org/macos-release/-/macos-release-3.0.1.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Mon, 04 Sep 2023 09:00:30 GMT","location":"https://registry.npmjs.org/macos-release/-/macos-release-3.0.1.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

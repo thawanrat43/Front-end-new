@@ -32,7 +32,7 @@ const Pagestatus = () => {
     }
     const getprofile = async ()=>{
         try{
-            const response = await axios.get(`/apiprofile/${id}`);
+            const response = await axios.get(`/api/profile/${id}`);
             setProfile(response.data);
             
         } catch (err) {

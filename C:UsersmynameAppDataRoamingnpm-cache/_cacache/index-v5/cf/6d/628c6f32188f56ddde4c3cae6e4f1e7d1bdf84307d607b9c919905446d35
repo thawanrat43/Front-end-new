@@ -1,0 +1,2 @@
+
+413b3e2b612deb244de239d1b93ca9241e4ed914	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/match-sorter","integrity":null,"time":1693796649546,"size":"0","metadata":{"time":1693796649545,"url":"http://registry.npmjs.org/match-sorter","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Mon, 04 Sep 2023 03:04:09 GMT","location":"https://registry.npmjs.org/match-sorter","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

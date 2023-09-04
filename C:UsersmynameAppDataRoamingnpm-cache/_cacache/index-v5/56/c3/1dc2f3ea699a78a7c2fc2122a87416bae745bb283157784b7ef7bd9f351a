@@ -1,0 +1,2 @@
+
+79ced228c5aef6a1d476c7f5fb5e089a90a02182	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/ansi-to-html","integrity":null,"time":1693818018241,"size":"0","metadata":{"time":1693818018241,"url":"http://registry.npmjs.org/ansi-to-html","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Mon, 04 Sep 2023 09:00:18 GMT","location":"https://registry.npmjs.org/ansi-to-html","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

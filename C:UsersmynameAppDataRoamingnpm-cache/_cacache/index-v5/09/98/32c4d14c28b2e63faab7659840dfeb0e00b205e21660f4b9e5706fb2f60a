@@ -1,0 +1,2 @@
+
+ad8f34afa17c471889c7e922d1377c3cdc445225	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/hasbin","integrity":null,"time":1693818018324,"size":"0","metadata":{"time":1693818018324,"url":"http://registry.npmjs.org/hasbin","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Mon, 04 Sep 2023 09:00:18 GMT","location":"https://registry.npmjs.org/hasbin","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

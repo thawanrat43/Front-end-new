@@ -1,0 +1,2 @@
+
+6e5122c7e9f92b5984c1ab51a4dd6bf888a43c35	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/@netlify/binary-info/-/binary-info-1.0.0.tgz","integrity":null,"time":1693818036575,"size":"0","metadata":{"time":1693818036575,"url":"http://registry.npmjs.org/@netlify/binary-info/-/binary-info-1.0.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Mon, 04 Sep 2023 09:00:36 GMT","location":"https://registry.npmjs.org/@netlify/binary-info/-/binary-info-1.0.0.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

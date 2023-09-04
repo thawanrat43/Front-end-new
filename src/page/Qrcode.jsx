@@ -22,7 +22,7 @@ const Qrcode = () => {
     const data = 0 ;
     const getdata = async ()=>{
       try{
-          const response = await axios.get(`http://localhost:3333/profilehistory/${id}`);
+          const response = await axios.get(`/api/profilehistory/${id}`);
           setUser(response.data);
       } catch (err) {
           console.log(err);

@@ -1,0 +1,2 @@
+
+ecf2bceb51db3499b3ed09c3f9f2eea0ec0ad899	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/@netlify%2fbuild","integrity":null,"time":1693818018299,"size":"0","metadata":{"time":1693818018299,"url":"http://registry.npmjs.org/@netlify%2fbuild","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Mon, 04 Sep 2023 09:00:18 GMT","location":"https://registry.npmjs.org/@netlify%2Fbuild","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

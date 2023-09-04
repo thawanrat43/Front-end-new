@@ -1,0 +1,2 @@
+
+7a446e16c38e4beadfe8698e46376ddc33109185	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/@netlify/config/-/config-20.8.0.tgz","integrity":null,"time":1693818036075,"size":"0","metadata":{"time":1693818036075,"url":"http://registry.npmjs.org/@netlify/config/-/config-20.8.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Mon, 04 Sep 2023 09:00:36 GMT","location":"https://registry.npmjs.org/@netlify/config/-/config-20.8.0.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

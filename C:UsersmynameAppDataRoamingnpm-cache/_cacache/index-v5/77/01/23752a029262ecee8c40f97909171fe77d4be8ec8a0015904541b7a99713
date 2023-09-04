@@ -1,0 +1,2 @@
+
+0c90d34cf98501d64284d2112080407c3fc288af	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/ansi-styles/-/ansi-styles-5.2.0.tgz","integrity":null,"time":1693818027988,"size":"0","metadata":{"time":1693818027988,"url":"http://registry.npmjs.org/ansi-styles/-/ansi-styles-5.2.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Mon, 04 Sep 2023 09:00:27 GMT","location":"https://registry.npmjs.org/ansi-styles/-/ansi-styles-5.2.0.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

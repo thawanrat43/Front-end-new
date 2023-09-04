@@ -1,0 +1,2 @@
+
+8dfaf0dcc4a30c60d97f5e0ec5cd332fb4de9165	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/lambda-local/-/lambda-local-2.1.2.tgz","integrity":null,"time":1693818031168,"size":"0","metadata":{"time":1693818031168,"url":"http://registry.npmjs.org/lambda-local/-/lambda-local-2.1.2.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Mon, 04 Sep 2023 09:00:31 GMT","location":"https://registry.npmjs.org/lambda-local/-/lambda-local-2.1.2.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

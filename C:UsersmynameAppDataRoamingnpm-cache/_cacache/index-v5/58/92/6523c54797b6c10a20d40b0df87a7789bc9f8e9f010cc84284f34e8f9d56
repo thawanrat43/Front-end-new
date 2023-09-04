@@ -1,0 +1,2 @@
+
+3665d108663b89110caa88acf77a4a4bf3acef53	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/precinct/-/precinct-11.0.2.tgz","integrity":null,"time":1693818027996,"size":"0","metadata":{"time":1693818027996,"url":"http://registry.npmjs.org/precinct/-/precinct-11.0.2.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Mon, 04 Sep 2023 09:00:27 GMT","location":"https://registry.npmjs.org/precinct/-/precinct-11.0.2.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

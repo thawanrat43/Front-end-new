@@ -1,0 +1,2 @@
+
+2969e47579be9dad91cfb9fb6993b5e42bb33913	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/is-wsl/-/is-wsl-2.2.0.tgz","integrity":null,"time":1693818031251,"size":"0","metadata":{"time":1693818031251,"url":"http://registry.npmjs.org/is-wsl/-/is-wsl-2.2.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Mon, 04 Sep 2023 09:00:31 GMT","location":"https://registry.npmjs.org/is-wsl/-/is-wsl-2.2.0.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

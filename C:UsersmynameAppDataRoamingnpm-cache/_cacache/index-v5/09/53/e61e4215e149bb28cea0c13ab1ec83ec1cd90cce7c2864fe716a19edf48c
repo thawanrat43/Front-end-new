@@ -1,0 +1,2 @@
+
+129a5a14ca3add7475088cf9d73c62f6c8fa8ec7	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/regex-not/-/regex-not-1.0.2.tgz","integrity":null,"time":1693818027810,"size":"0","metadata":{"time":1693818027810,"url":"http://registry.npmjs.org/regex-not/-/regex-not-1.0.2.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Mon, 04 Sep 2023 09:00:27 GMT","location":"https://registry.npmjs.org/regex-not/-/regex-not-1.0.2.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

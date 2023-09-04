@@ -1,0 +1,2 @@
+
+9f89038e9e33605a4dc2867ff71530574bc67b54	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/lambda-local","integrity":null,"time":1693818018443,"size":"0","metadata":{"time":1693818018443,"url":"http://registry.npmjs.org/lambda-local","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Mon, 04 Sep 2023 09:00:18 GMT","location":"https://registry.npmjs.org/lambda-local","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

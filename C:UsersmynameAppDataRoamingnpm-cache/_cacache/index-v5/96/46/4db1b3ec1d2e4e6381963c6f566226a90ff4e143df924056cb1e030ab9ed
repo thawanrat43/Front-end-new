@@ -1,0 +1,2 @@
+
+89c84fc3857c5c2a9f237f5a4aa47d4aa3b28426	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/readdirp/-/readdirp-2.2.1.tgz","integrity":null,"time":1693818034617,"size":"0","metadata":{"time":1693818034617,"url":"http://registry.npmjs.org/readdirp/-/readdirp-2.2.1.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Mon, 04 Sep 2023 09:00:34 GMT","location":"https://registry.npmjs.org/readdirp/-/readdirp-2.2.1.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

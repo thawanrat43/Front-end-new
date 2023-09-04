@@ -1,0 +1,2 @@
+
+2c21aab0a33eb81efd54c29c5dd18983afabde73	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/pretty-format/-/pretty-format-27.5.1.tgz","integrity":null,"time":1693818028000,"size":"0","metadata":{"time":1693818027999,"url":"http://registry.npmjs.org/pretty-format/-/pretty-format-27.5.1.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Mon, 04 Sep 2023 09:00:27 GMT","location":"https://registry.npmjs.org/pretty-format/-/pretty-format-27.5.1.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

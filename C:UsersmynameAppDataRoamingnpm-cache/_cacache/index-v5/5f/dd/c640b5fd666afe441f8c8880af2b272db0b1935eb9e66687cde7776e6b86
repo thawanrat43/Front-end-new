@@ -1,0 +1,2 @@
+
+d0d4a54a34d0d714ca4061abab67015d57ad8eb3	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/exit-on-epipe/-/exit-on-epipe-1.0.1.tgz","integrity":null,"time":1693818034188,"size":"0","metadata":{"time":1693818034188,"url":"http://registry.npmjs.org/exit-on-epipe/-/exit-on-epipe-1.0.1.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Mon, 04 Sep 2023 09:00:34 GMT","location":"https://registry.npmjs.org/exit-on-epipe/-/exit-on-epipe-1.0.1.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

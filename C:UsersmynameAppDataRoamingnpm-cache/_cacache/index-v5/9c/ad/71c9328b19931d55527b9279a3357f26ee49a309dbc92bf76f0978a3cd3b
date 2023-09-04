@@ -1,0 +1,2 @@
+
+ab5b59bfe7cd0cc9cda65c32005417dee599ee1e	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/@esbuild/darwin-x64/-/darwin-x64-0.19.2.tgz","integrity":null,"time":1693818035842,"size":"0","metadata":{"time":1693818035842,"url":"http://registry.npmjs.org/@esbuild/darwin-x64/-/darwin-x64-0.19.2.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Mon, 04 Sep 2023 09:00:35 GMT","location":"https://registry.npmjs.org/@esbuild/darwin-x64/-/darwin-x64-0.19.2.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

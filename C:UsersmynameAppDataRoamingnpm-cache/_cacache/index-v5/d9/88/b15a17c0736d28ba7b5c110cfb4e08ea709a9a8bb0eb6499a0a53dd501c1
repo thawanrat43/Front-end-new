@@ -1,0 +1,2 @@
+
+c3f21e997429daa7e2ddc3b809ec07f27854fafc	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/express-logging","integrity":null,"time":1693818018279,"size":"0","metadata":{"time":1693818018279,"url":"http://registry.npmjs.org/express-logging","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Mon, 04 Sep 2023 09:00:18 GMT","location":"https://registry.npmjs.org/express-logging","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+3f6042935857135a126473e2dde4f8f8ab74cf96	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/@fastify%2fstatic","integrity":null,"time":1693818018241,"size":"0","metadata":{"time":1693818018241,"url":"http://registry.npmjs.org/@fastify%2fstatic","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Mon, 04 Sep 2023 09:00:18 GMT","location":"https://registry.npmjs.org/@fastify%2Fstatic","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

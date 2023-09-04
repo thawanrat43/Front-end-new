@@ -1,0 +1,2 @@
+
+ea48050b9c42f858664b2416aff3c540f218b430	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/folder-walker/-/folder-walker-3.2.0.tgz","integrity":null,"time":1693818032812,"size":"0","metadata":{"time":1693818032812,"url":"http://registry.npmjs.org/folder-walker/-/folder-walker-3.2.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Mon, 04 Sep 2023 09:00:32 GMT","location":"https://registry.npmjs.org/folder-walker/-/folder-walker-3.2.0.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

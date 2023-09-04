@@ -1,0 +1,2 @@
+
+75e030a7d09841cd15304fdcedce510d8b4088a2	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/get-intrinsic/-/get-intrinsic-1.1.1.tgz","integrity":null,"time":1693818032758,"size":"0","metadata":{"time":1693818032758,"url":"http://registry.npmjs.org/get-intrinsic/-/get-intrinsic-1.1.1.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Mon, 04 Sep 2023 09:00:32 GMT","location":"https://registry.npmjs.org/get-intrinsic/-/get-intrinsic-1.1.1.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

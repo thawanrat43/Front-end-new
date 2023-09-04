@@ -19,7 +19,7 @@ import Modal from '../compament/Modal';
 import Nav from 'react-bootstrap/Nav';
 import Navbar from 'react-bootstrap/Navbar';
 
-const admindelete = () => {
+const Admindelete = () => {
     const [user ,setUser] = useState([]);
     const [userid,setuserid] = useState ([]);
     const [modalOpen, setModalOpen] = useState(false);
@@ -135,4 +135,4 @@ const admindelete = () => {
     )
 }
 
-export default admindelete
+export default Admindelete

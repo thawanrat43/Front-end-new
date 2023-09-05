@@ -1,2 +1,0 @@
-
-a6e960d27494df6039720281506b2ff52448e0cc	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/windows-release/-/windows-release-5.0.1.tgz","integrity":null,"time":1693818025032,"size":"0","metadata":{"time":1693818025032,"url":"http://registry.npmjs.org/windows-release/-/windows-release-5.0.1.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Mon, 04 Sep 2023 09:00:24 GMT","location":"https://registry.npmjs.org/windows-release/-/windows-release-5.0.1.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

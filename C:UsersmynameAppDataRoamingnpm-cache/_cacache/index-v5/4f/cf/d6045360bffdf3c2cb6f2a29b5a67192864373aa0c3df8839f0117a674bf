@@ -1,2 +1,0 @@
-
-012910ae0c3c80a5431a5fcc06f2a552b1c7ce15	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/fast-equals/-/fast-equals-3.0.3.tgz","integrity":null,"time":1693818033958,"size":"0","metadata":{"time":1693818033958,"url":"http://registry.npmjs.org/fast-equals/-/fast-equals-3.0.3.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Mon, 04 Sep 2023 09:00:34 GMT","location":"https://registry.npmjs.org/fast-equals/-/fast-equals-3.0.3.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

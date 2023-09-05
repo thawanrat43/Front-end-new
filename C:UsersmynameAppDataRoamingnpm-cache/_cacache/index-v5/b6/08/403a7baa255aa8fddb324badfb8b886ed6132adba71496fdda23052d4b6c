@@ -1,2 +1,0 @@
-
-27449f8760be7ea37b70f9fda752fa44f9f7f955	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/quote-unquote/-/quote-unquote-1.0.0.tgz","integrity":null,"time":1693818027998,"size":"0","metadata":{"time":1693818027998,"url":"http://registry.npmjs.org/quote-unquote/-/quote-unquote-1.0.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Mon, 04 Sep 2023 09:00:27 GMT","location":"https://registry.npmjs.org/quote-unquote/-/quote-unquote-1.0.0.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

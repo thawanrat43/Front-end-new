@@ -1,2 +1,0 @@
-
-58fc8e3fbf62dda61dd8c11583636d17fed3286f	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/@babel/highlight/-/highlight-7.22.13.tgz","integrity":null,"time":1693818036725,"size":"0","metadata":{"time":1693818036725,"url":"http://registry.npmjs.org/@babel/highlight/-/highlight-7.22.13.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Mon, 04 Sep 2023 09:00:36 GMT","location":"https://registry.npmjs.org/@babel/highlight/-/highlight-7.22.13.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

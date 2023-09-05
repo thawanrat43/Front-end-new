@@ -1,2 +1,0 @@
-
-96025e289b8164509a70f76ab2c5c8c4d08f1214	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/slice-ansi/-/slice-ansi-5.0.0.tgz","integrity":null,"time":1693818027361,"size":"0","metadata":{"time":1693818027361,"url":"http://registry.npmjs.org/slice-ansi/-/slice-ansi-5.0.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Mon, 04 Sep 2023 09:00:26 GMT","location":"https://registry.npmjs.org/slice-ansi/-/slice-ansi-5.0.0.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

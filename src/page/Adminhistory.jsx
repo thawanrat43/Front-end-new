@@ -75,7 +75,7 @@ const Adminhistory = () => {
          <Navbar collapseOnSelect expand="lg" className="bg-body-tertiary">
                     <Container>
 
-                    <Navbar.Brand href='/' >CHECK</Navbar.Brand>
+                    <Navbar.Brand href='/adminuser' >CHECK</Navbar.Brand>
 
                             
                     <Navbar.Toggle aria-controls="responsive-navbar-nav" />

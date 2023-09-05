@@ -1,2 +1,0 @@
-
-78b92b70a93f272d5ff0cf2e79ddf50fef2e736c	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/arr-diff/-/arr-diff-4.0.0.tgz","integrity":null,"time":1693818034979,"size":"0","metadata":{"time":1693818034979,"url":"http://registry.npmjs.org/arr-diff/-/arr-diff-4.0.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Mon, 04 Sep 2023 09:00:35 GMT","location":"https://registry.npmjs.org/arr-diff/-/arr-diff-4.0.0.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

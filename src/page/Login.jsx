@@ -37,7 +37,7 @@ const Login = () => {
     const handleLogin = async (e) => {
         e.preventDefault();
         try {
-            await axios.post("/api/login", inputs);
+            await axios.post(`http://localhost:3333/login`, inputs);
             
             if(err){
                 alert('login failed')

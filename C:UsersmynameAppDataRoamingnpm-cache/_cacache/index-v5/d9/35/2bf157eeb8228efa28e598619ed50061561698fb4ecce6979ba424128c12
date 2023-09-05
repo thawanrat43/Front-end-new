@@ -1,2 +1,0 @@
-
-21b07aed600a99ab1edfda722faecbf4877d181d	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/unixify","integrity":null,"time":1693818018480,"size":"0","metadata":{"time":1693818018479,"url":"http://registry.npmjs.org/unixify","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Mon, 04 Sep 2023 09:00:18 GMT","location":"https://registry.npmjs.org/unixify","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

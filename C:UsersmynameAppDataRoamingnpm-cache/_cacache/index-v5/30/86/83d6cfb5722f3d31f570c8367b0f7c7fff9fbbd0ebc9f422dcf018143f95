@@ -1,2 +1,0 @@
-
-f05adeae84ab2385690e5136e5b53914a36fb71f	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/@tsconfig/node10/-/node10-1.0.8.tgz","integrity":null,"time":1693818035280,"size":"0","metadata":{"time":1693818035280,"url":"http://registry.npmjs.org/@tsconfig/node10/-/node10-1.0.8.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Mon, 04 Sep 2023 09:00:35 GMT","location":"https://registry.npmjs.org/@tsconfig/node10/-/node10-1.0.8.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

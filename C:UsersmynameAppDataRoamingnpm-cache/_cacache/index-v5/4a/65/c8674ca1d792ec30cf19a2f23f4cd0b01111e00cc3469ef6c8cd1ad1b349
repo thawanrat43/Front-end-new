@@ -1,2 +1,0 @@
-
-d5c585e2609d2298f8ff3a467b698ba7910e6a4b	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/fsevents/-/fsevents-2.3.2.tgz","integrity":null,"time":1693818032775,"size":"0","metadata":{"time":1693818032775,"url":"http://registry.npmjs.org/fsevents/-/fsevents-2.3.2.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Mon, 04 Sep 2023 09:00:32 GMT","location":"https://registry.npmjs.org/fsevents/-/fsevents-2.3.2.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

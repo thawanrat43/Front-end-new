@@ -1,2 +1,0 @@
-
-52d03fc956148fbc3e110bba1cd4e5a36dc748f6	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/unixify/-/unixify-1.0.0.tgz","integrity":null,"time":1693818025358,"size":"0","metadata":{"time":1693818025358,"url":"http://registry.npmjs.org/unixify/-/unixify-1.0.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Mon, 04 Sep 2023 09:00:25 GMT","location":"https://registry.npmjs.org/unixify/-/unixify-1.0.0.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

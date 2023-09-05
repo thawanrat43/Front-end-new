@@ -1,2 +1,0 @@
-
-7d26fd6665f86ae572250917cd8352d5a811bf90	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/git-repo-info","integrity":null,"time":1693818018306,"size":"0","metadata":{"time":1693818018306,"url":"http://registry.npmjs.org/git-repo-info","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Mon, 04 Sep 2023 09:00:18 GMT","location":"https://registry.npmjs.org/git-repo-info","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

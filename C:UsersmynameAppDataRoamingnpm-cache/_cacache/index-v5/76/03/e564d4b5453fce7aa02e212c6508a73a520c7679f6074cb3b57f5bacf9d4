@@ -1,2 +1,0 @@
-
-9c189f3a3dc6353b630524b36c16efcc0b3e7157	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/unbzip2-stream/-/unbzip2-stream-1.4.3.tgz","integrity":null,"time":1693818025415,"size":"0","metadata":{"time":1693818025414,"url":"http://registry.npmjs.org/unbzip2-stream/-/unbzip2-stream-1.4.3.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Mon, 04 Sep 2023 09:00:25 GMT","location":"https://registry.npmjs.org/unbzip2-stream/-/unbzip2-stream-1.4.3.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

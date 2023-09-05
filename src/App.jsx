@@ -17,7 +17,7 @@ import Delete  from './page/Delete';
 import Adminregister from './page/Adminregister'
 import Adminuser from './page/Adminuser'
 import Adminupdate from './page/Adminupdate';
-import Admindelete from './page/Admindelete';
+// import Admindelete from './page/Admindelete';
 import {BrowserRouter as Router, Route, Link, Routes, Navigate} from 'react-router-dom';
 import Container from 'react-bootstrap/Container';
 import Nav from 'react-bootstrap/Nav';
@@ -46,13 +46,13 @@ function App() {
         {/* <Route path='/profile' >
           <Route path=':userid' element={<Profile/>}/>
         </Route> */}
-        <Route path='/profile/:userid' element={<Profile/>}/>
+        <Route path='/:userid' element={<Profile/>}/>
         <Route path='/code/:userid' element={<Code/>}/>
         <Route path='/profileupdate/:userid' element={<Profileupdate/>}/>
         <Route path='/adminregister' element={<Adminregister/>}/>
         <Route path='/adminuser' element={<Adminuser/>}/>
         <Route path='/adminupdate/:userid' element={<Adminupdate/>}/>
-        <Route path='/adminudelete' element={<Admindelete/>}/>
+        {/* <Route path='/adminudelete' element={<Admindelete/>}/> */}
         <Route path='/delete/:id' element={<Delete/>}/>
         <Route path='/pagestatus/:id' element={<Pagestatus/>}/>
         <Route path='/history/:userid' element={<History/>}/>
@@ -61,7 +61,7 @@ function App() {
         <Route path='/pay' element={<Pay/>}/>
         <Route path='/qrcode/:id' element={<Qrcode/>}/>
         <Route path='/finish/:id' element={<Finish/>}/>
-        <Route path='/' element={<Homenotlogin/>}/>
+        <Route path='/z' element={<Homenotlogin/>}/>
       </Routes>
     </Router>
    

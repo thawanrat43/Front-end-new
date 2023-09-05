@@ -1,2 +1,0 @@
-
-ab2e3ccb443a458b1bef68988bb1591f5837d89c	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/ext-list/-/ext-list-2.2.2.tgz","integrity":null,"time":1693818034117,"size":"0","metadata":{"time":1693818034117,"url":"http://registry.npmjs.org/ext-list/-/ext-list-2.2.2.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Mon, 04 Sep 2023 09:00:34 GMT","location":"https://registry.npmjs.org/ext-list/-/ext-list-2.2.2.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

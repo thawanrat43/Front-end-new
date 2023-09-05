@@ -64,7 +64,7 @@ const Home =() =>{
         e.preventDefault();
     
         try {
-          await axios.post(`/api/home`, inputs)
+          await axios.post(`http://localhost:3333/home`, inputs)
           
           .then((response) => {
             if (response.data.error) {
@@ -79,7 +79,7 @@ const Home =() =>{
     };
     const getdata = async ()=>{
         try{
-            const response = await axios.get(`/api/profileid`);
+            const response = await axios.get(`http://localhost:3333/profileid`);
             setUser(response.data);
         } catch (err) {
             console.log(err);

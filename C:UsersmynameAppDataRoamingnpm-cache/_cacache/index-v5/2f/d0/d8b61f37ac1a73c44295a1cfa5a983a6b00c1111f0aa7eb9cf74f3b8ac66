@@ -1,2 +1,0 @@
-
-747814ba87b74434338e906c2a983604e64cd3a1	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/token-types/-/token-types-5.0.1.tgz","integrity":null,"time":1693818025420,"size":"0","metadata":{"time":1693818025420,"url":"http://registry.npmjs.org/token-types/-/token-types-5.0.1.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Mon, 04 Sep 2023 09:00:25 GMT","location":"https://registry.npmjs.org/token-types/-/token-types-5.0.1.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

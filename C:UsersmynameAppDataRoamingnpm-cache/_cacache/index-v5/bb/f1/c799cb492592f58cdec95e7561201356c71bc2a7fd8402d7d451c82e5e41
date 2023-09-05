@@ -1,2 +1,0 @@
-
-c605d33454b5552080effd904f74c5b2bc8d467f	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/cron-parser","integrity":null,"time":1693818018278,"size":"0","metadata":{"time":1693818018278,"url":"http://registry.npmjs.org/cron-parser","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Mon, 04 Sep 2023 09:00:18 GMT","location":"https://registry.npmjs.org/cron-parser","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

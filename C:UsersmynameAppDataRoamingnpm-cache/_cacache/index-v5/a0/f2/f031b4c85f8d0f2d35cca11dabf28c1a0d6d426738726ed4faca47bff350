@@ -1,2 +1,0 @@
-
-ff21110edb3f255b6d3ed626326585f44dfb5f91	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/cli-width/-/cli-width-2.2.1.tgz","integrity":null,"time":1693818034720,"size":"0","metadata":{"time":1693818034720,"url":"http://registry.npmjs.org/cli-width/-/cli-width-2.2.1.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Mon, 04 Sep 2023 09:00:34 GMT","location":"https://registry.npmjs.org/cli-width/-/cli-width-2.2.1.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

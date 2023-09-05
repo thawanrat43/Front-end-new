@@ -1,2 +1,0 @@
-
-0dfe97e1c78575ea1dc8b9dc893021aee1e71370	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/tabtab/-/tabtab-3.0.2.tgz","integrity":null,"time":1693818026162,"size":"0","metadata":{"time":1693818026162,"url":"http://registry.npmjs.org/tabtab/-/tabtab-3.0.2.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Mon, 04 Sep 2023 09:00:26 GMT","location":"https://registry.npmjs.org/tabtab/-/tabtab-3.0.2.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

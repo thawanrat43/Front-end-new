@@ -36,7 +36,7 @@ const Profile = ({}) => {
     }
     const getdata = async ()=>{
         try{
-            const response = await axios.get(`/api/profile/${userid}`);
+            const response = await axios.get(`https://back-end-nr6u.onrender.com/profile/${userid}`);
             setUser(response.data);
         } catch (err) {
             console.log(err);

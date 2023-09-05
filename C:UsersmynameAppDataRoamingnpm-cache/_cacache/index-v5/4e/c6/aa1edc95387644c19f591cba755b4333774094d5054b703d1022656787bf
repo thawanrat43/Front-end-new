@@ -1,2 +1,0 @@
-
-fc7923e5d50a772ba7c6d39f35a7631f7a6e0b1b	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/resolve/-/resolve-2.0.0-next.4.tgz","integrity":null,"time":1693818027550,"size":"0","metadata":{"time":1693818027550,"url":"http://registry.npmjs.org/resolve/-/resolve-2.0.0-next.4.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Mon, 04 Sep 2023 09:00:27 GMT","location":"https://registry.npmjs.org/resolve/-/resolve-2.0.0-next.4.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

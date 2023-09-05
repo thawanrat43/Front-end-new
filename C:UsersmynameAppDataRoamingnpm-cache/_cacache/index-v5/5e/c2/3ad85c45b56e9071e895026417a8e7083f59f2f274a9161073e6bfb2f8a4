@@ -1,2 +1,0 @@
-
-285a8d715c1ab12da65c605a5a0ffc8fd0fe60d3	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/@pnpm/npm-conf/-/npm-conf-2.2.0.tgz","integrity":null,"time":1693818035303,"size":"0","metadata":{"time":1693818035303,"url":"http://registry.npmjs.org/@pnpm/npm-conf/-/npm-conf-2.2.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Mon, 04 Sep 2023 09:00:35 GMT","location":"https://registry.npmjs.org/@pnpm/npm-conf/-/npm-conf-2.2.0.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

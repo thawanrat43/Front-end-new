@@ -1,2 +1,0 @@
-
-3593ff12f113d98a9560c792f8258fb4ea0ff45c	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/is-buffer/-/is-buffer-1.1.6.tgz","integrity":null,"time":1693818031672,"size":"0","metadata":{"time":1693818031672,"url":"http://registry.npmjs.org/is-buffer/-/is-buffer-1.1.6.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Mon, 04 Sep 2023 09:00:31 GMT","location":"https://registry.npmjs.org/is-buffer/-/is-buffer-1.1.6.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

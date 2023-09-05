@@ -1,2 +1,0 @@
-
-28b8bfc0d98edcce87a3fc02e2e781e02da7fdbb	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/is-ci/-/is-ci-3.0.1.tgz","integrity":null,"time":1693818031671,"size":"0","metadata":{"time":1693818031671,"url":"http://registry.npmjs.org/is-ci/-/is-ci-3.0.1.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Mon, 04 Sep 2023 09:00:31 GMT","location":"https://registry.npmjs.org/is-ci/-/is-ci-3.0.1.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

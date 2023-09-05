@@ -1,2 +1,0 @@
-
-67e8f939af137788893e80836500db96ed2ab41f	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/npm-run-path/-/npm-run-path-4.0.1.tgz","integrity":null,"time":1693818028759,"size":"0","metadata":{"time":1693818028759,"url":"http://registry.npmjs.org/npm-run-path/-/npm-run-path-4.0.1.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Mon, 04 Sep 2023 09:00:28 GMT","location":"https://registry.npmjs.org/npm-run-path/-/npm-run-path-4.0.1.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

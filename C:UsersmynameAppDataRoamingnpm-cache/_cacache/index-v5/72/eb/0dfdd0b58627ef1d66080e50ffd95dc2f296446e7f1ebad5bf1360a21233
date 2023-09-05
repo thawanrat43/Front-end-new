@@ -1,2 +1,0 @@
-
-26b468da102af88c859920649a32e262f73d619c	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/express-logging/-/express-logging-1.1.1.tgz","integrity":null,"time":1693818034118,"size":"0","metadata":{"time":1693818034118,"url":"http://registry.npmjs.org/express-logging/-/express-logging-1.1.1.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Mon, 04 Sep 2023 09:00:34 GMT","location":"https://registry.npmjs.org/express-logging/-/express-logging-1.1.1.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}
